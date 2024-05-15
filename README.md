@@ -1,5 +1,5 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: B.Allen Steve Bernard</h3>
+<h3>Name: B.Allen StevBernard</h3>
 <h3>Register Number: 212221220004</h3>
 
 
